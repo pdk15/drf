@@ -1,0 +1,3 @@
+EMAIL_USER = 'django@example.com'
+EMAIL_PASS = 'ABCD '
+EMAIL_FROM = 'django@example.com'
